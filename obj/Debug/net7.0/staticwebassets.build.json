@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ZtFbH2D3sBQ+2IfOSvg5k+SHzRzkhu29QTTedqhT0eU=",
+  "Source": "Projeto_Web-Lh_Pets_Versão 1",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Versão 1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Versão 1\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Versão 1",
+      "ContentRoot": "C:\\Users\\REDE-001875\\Desktop\\Felipe\\Senai\\Projeto_Web-Lh_Pets_Alunos_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Versão 1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\REDE-001875\\Desktop\\Felipe\\Senai\\Projeto_Web-Lh_Pets_Alunos_versão_1\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Versão 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\REDE-001875\\Desktop\\Felipe\\Senai\\Projeto_Web-Lh_Pets_Alunos_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Versão 1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
